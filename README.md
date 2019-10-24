@@ -16,3 +16,7 @@ https://www.cnblogs.com/chenpingzhao/category/690116.html
 
 https://www.cnblogs.com/MrHSR/
 
+mysql45讲经典（需要付费）：
+
+https://time.geekbang.org/column/article/67888
+
